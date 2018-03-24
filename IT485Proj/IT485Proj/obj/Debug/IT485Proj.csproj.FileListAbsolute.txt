@@ -1,0 +1,158 @@
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\ApplicationInsights.config
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\csc.exe
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\vbc.exe
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\VBCSCompiler.exe
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\IT485Proj.dll.config
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\IT485Proj.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\IT485Proj.pdb
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Antlr3.Runtime.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\EntityFramework.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\EntityFramework.SqlServer.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.Web.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.ApplicationInsights.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Newtonsoft.Json.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Owin.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\System.Web.Optimization.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\System.Web.Providers.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\WebGrease.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.Web.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.ApplicationInsights.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\System.Web.Optimization.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Antlr3.Runtime.pdb
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Newtonsoft.Json.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\EntityFramework.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\EntityFramework.SqlServer.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\System.Web.Providers.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\obj\Debug\IT485Proj.dll
+c:\users\vyass\documents\visual studio 2015\Projects\IT485Proj\IT485Proj\obj\Debug\IT485Proj.pdb
+C:\Users\vyass\Documents\Visual Studio 2015\Projects\IT485Proj\IT485Proj\obj\Debug\IT485Proj.csprojResolveAssemblyReference.cache
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\ApplicationInsights.config
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\csc.exe
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\vbc.exe
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\VBCSCompiler.exe
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\IT485Proj.dll.config
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\IT485Proj.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\IT485Proj.pdb
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Antlr3.Runtime.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\EntityFramework.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\EntityFramework.SqlServer.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.Web.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.ApplicationInsights.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Newtonsoft.Json.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Owin.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\System.Web.Optimization.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\System.Web.Providers.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\WebGrease.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.Web.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.ApplicationInsights.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\System.Web.Optimization.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Antlr3.Runtime.pdb
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Newtonsoft.Json.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\EntityFramework.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\EntityFramework.SqlServer.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\System.Web.Providers.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\obj\Debug\IT485Proj.csprojResolveAssemblyReference.cache
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\obj\Debug\IT485Proj.dll
+D:\Users\IT485S714\Downloads\IT485Proj (1)\IT485Proj\IT485Proj\obj\Debug\IT485Proj.pdb
